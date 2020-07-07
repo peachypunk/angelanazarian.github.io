@@ -25,11 +25,10 @@
 <p>The experiences that Angela has accrued across various academic fields, the music industry, and technology inspire her interdisciplinary approach to studying human behavior and cognition. She is passionate about applying this keen insight and creative problem solving to conduct thoughtful and innovative research for the greater good.</p>
          
    <h2 class="media-heading">Contact</h2>
-   <p><a href="mailto:anazarian@ucdavis.edu">anazarian@ucdavis.edu</a></p>
+   <p>Email: <a href="mailto:anazarian@ucdavis.edu">anazarian@ucdavis.edu</a></p>
 
    <p>Angela Nazarian</p>
-   <p>Center for Mind and Brain</p>
-   <p>267 Cousteau Place</p>
-   <p>Davis, CA 95616</p>
+   <p>Center for Mind and Brain<br/>
+   267 Cousteau Place<br/>
+   Davis, CA 95616<br/></p>
 
-   <p><a href="https://orcid.org/0000-0001-8583-2567">orcid.org/0000-0001-8583-2567</a></p>
