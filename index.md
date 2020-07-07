@@ -17,7 +17,7 @@
       </div>
       <div>
       <a href="bio_pic.jpeg">
-      <img src="bio_pic.jpeg" width="299" height="300"></a>
+      <img src="bio_pic.jpeg" width="299" height="300" float: right></a>
       </div>
     </div>
             <h2 class="media-heading">About Me</h2>
