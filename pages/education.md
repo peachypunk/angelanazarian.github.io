@@ -1,4 +1,4 @@
-<h3>Publications</h3>
+<h2>Publications</h2>
 <div class="row">
 		           <div class="col-xs-6 col-lg-7">
              <h4>PEER-REVIEWED JOURNAL ARTICLES</h4>
