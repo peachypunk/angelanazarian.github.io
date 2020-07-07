@@ -12,9 +12,9 @@
       </div>
       <div class="col-xs-6">
         <p class="text-right"><a href="pages/Nazarian_CV.pdf">Download my CV</a></p>
-        <p class="text-right"><a href="https://github.com/peachypunk" ; target="_top">Find me on GitHub</a></p>
         <p class="text-right"><a href="www.linkedin.com/in/angela-nazarian"; target="_top">LinkedIn</a></p>
         <p class="text-right"><a href="https://scholar.google.com/citations?user=iH_c3aAAAAAJ&hl=en" ; target="_top">Google Scholar</a></p>
+        <p class="text-right"><a href="https://github.com/peachypunk" ; target="_top">GitHub</a></p>
       </div>
     </div>
             <h2 class="media-heading">About Me</h2>
