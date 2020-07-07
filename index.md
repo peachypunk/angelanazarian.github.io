@@ -8,6 +8,7 @@
     <div class="row">
       <div class="col-xs-6">
         <h1>Angela Nazarian</h1>
+        <h2> PhD Candidate - Center for Mind and Brain - University of California, Davis</h2>
       </div>
       <div class="col-xs-6">
         <p class="text-right"><a href="pages./Nazarian_CV.pdf">Download my CV</a></p>
@@ -16,8 +17,6 @@
             Scholar</a></p>
       </div>
     </div>
-    <p> PhD Candidate - Center for Mind and Brain - University of California, Davis</a> </p>
-    <p><a href="mailto:anazarian@ucdavis.edu">anazarian@ucdavis.edu</a></p>
     <hr>
     <div class="row">
       <div class="col-lg-12 col-sm-12 col-xs-12">
