@@ -27,8 +27,8 @@
    <h2 class="media-heading">Contact</h2>
    <p>Email: <a href="mailto:anazarian@ucdavis.edu">anazarian@ucdavis.edu</a></p>
 
-   <p>Angela Nazarian</p>
-   <p>Center for Mind and Brain<br/>
+   <p>Angela Nazarian<br/>
+   Center for Mind and Brain<br/>
    267 Cousteau Place<br/>
    Davis, CA 95616<br/></p>
 
