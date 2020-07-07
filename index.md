@@ -4,7 +4,6 @@
 <body>
 
   <div class="container">
-  <hr>
     <div class="row">
       <div class="col-xs-6">
         <h1>Angela Nazarian</h1>
@@ -16,7 +15,6 @@
         <p class="text-right"><a href="https://scholar.google.com/citations?user=iH_c3aAAAAAJ&hl=en" ; target="_top">Google Scholar</a></p>
         <p class="text-right"><a href="https://github.com/peachypunk" ; target="_top">GitHub</a></p>
       </div>
-      <hr>
       <div class="row">
       <div class="col-lg-12 col-sm-12 col-xs-12">
         <div class="media">
