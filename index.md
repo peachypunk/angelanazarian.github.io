@@ -10,10 +10,10 @@
         <h2> PhD Candidate - Center for Mind and Brain - University of California, Davis</h2>
       </div>
       <div class="col-xs-6">
-        <p class="text-right float: right; display: block;"><a href="pages/Nazarian_CV.pdf">Download my CV</a></p>
-        <p class="text-right float: right; display: block;"><a href="www.linkedin.com/in/angela-nazarian"; target="_top">LinkedIn</a></p>
-        <p class="text-right float: right; display: block;"><a href="https://scholar.google.com/citations?user=iH_c3aAAAAAJ&hl=en" ; target="_top">Google Scholar</a></p>
-        <p class="text-right float: right; display: block;"><a href="https://github.com/peachypunk" ; target="_top">GitHub</a></p>
+        <p class="text-left float: right; display: block;"><a href="pages/Nazarian_CV.pdf">Download my CV</a></p>
+        <p class="text-left float: right; display: block;"><a href="www.linkedin.com/in/angela-nazarian"; target="_top">LinkedIn</a></p>
+        <p class="text-left float: right; display: block;"><a href="https://scholar.google.com/citations?user=iH_c3aAAAAAJ&hl=en" ; target="_top">Google Scholar</a></p>
+        <p class="text-left float: right; display: block;"><a href="https://github.com/peachypunk" ; target="_top">GitHub</a></p>
       </div>
       <div>
       <a href="bio_pic.jpeg">
