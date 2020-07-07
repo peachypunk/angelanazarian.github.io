@@ -18,8 +18,9 @@
       <div class="row">
       <div class="col-lg-12 col-sm-12 col-xs-12">
         <div class="media">
+          <p style="text-align: center; padding-bottom: 15px; padding-left: 15px; float: right; display: block;">
           <div class="media-left"> <a href="#"> <img src="bio_pic.jpeg" alt="..." width="299" height="300" class="media-object img-rounded hidden-xs">
-            </a> </div>
+            </a> </div> </p>
             <h2 class="media-heading">About Me</h2>
             <p>Angela Nazarian is a Psychology PhD candidate in the lab of <a href="https://atonal.ucdavis.edu/people/">Dr. Petr Janata</a> at the University of          California, Davis. Her research uses naturalistic stimuli to examine human memory across the lifespan. This work utilizes factors including nostalgia and modality to address questions such as why music reminds us of the past and how it can be used to elicit memories in healthy individuals as well as people with memory disorders.</p> 
 
