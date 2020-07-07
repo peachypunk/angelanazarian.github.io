@@ -1,5 +1,6 @@
+<h3>Publications</h3>
 <div class="row">
- 2. List		           <div class="col-xs-6 col-lg-7">
+		           <div class="col-xs-6 col-lg-7">
              <h4>PEER-REVIEWED JOURNAL ARTICLES</h4>
            </div>
          <p>Cameron, L.P., <b>Nazarian, A.</b>, Olson, D.E. (2019). Psychedelic Microdosing: Prevalence and Subjective Effects in the United States Population. Journal of Psychoactive Drugs. 
