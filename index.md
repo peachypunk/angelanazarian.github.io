@@ -1,18 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <!-- Bootstrap -->
-  <link rel="stylesheet" href="css/bootstrap.css">
-
-  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-  <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-</head>
-
 <body>
 
   <div class="container">
@@ -22,7 +10,7 @@
         <h1>Angela Nazarian</h1>
       </div>
       <div class="col-xs-6">
-        <p class="text-right"><a href="papers/Nazarian_CV.pdf">Download my CV</a></p>
+        <p class="text-right"><a href="pages./Nazarian_CV.pdf">Download my CV</a></p>
         <p class="text-right"><a href="https://github.com/peachypunk" ; target="_top">Find me on GitHub</a></p>
         <p class="text-right"><a href="https://scholar.google.com/citations?user=iH_c3aAAAAAJ&hl=en" ; target="_top">Google
             Scholar</a></p>
@@ -38,11 +26,11 @@
             </a> </div>
           <div class="media-body">
             <h2 class="media-heading">About Me</h2>
-            Angela Nazarian is a Psychology PhD candidate in the lab of <a href="https://atonal.ucdavis.edu/people/">Dr. Petr Janata</a> at the University of    California, Davis. Her research examines autobiographical memory across the lifespan and utilizes factors including nostalgia and cross-modality to address questions such as why music reminds us of the past, and how it can enhance memory retrieval in healthy individuals as well as individuals with memory disorders. 
+            <p>Angela Nazarian is a Psychology PhD candidate in the lab of <a href="https://atonal.ucdavis.edu/people/">Dr. Petr Janata</a> at the University of    California, Davis. Her research examines autobiographical memory across the lifespan and utilizes factors including nostalgia and cross-modality to address questions such as why music reminds us of the past, and how it can enhance memory retrieval in healthy individuals as well as individuals with memory disorders.</p> 
 
-Angela is currently interning as a User Experience Researcher at Google, and previously interned as a Research Scientist at Spotify in 2018 where she conducted user research to examine how individuals request music through conversational voice queries. Prior to joining UC Davis, Angela was also involved in the development and implementation of immersive technologies at the <a href="https://ict.usc.edu">USC Institute for Create Technologies</a>. Her research there included multimodal prediction of psychological disorders, assessment of responsive virtual museum tour guides, and development of virtual training agents for cross-cultural negotiation scenarios. 
+<p>Angela is currently interning as a User Experience Researcher at Google, and previously interned as a Research Scientist at Spotify in 2018 where she conducted user research to examine how individuals request music through conversational voice queries. Prior to joining UC Davis, Angela was also involved in the development and implementation of immersive technologies at the <a href="https://ict.usc.edu">USC Institute for Create Technologies</a>. Her research there included multimodal prediction of psychological disorders, assessment of responsive virtual museum tour guides, and development of virtual training agents for cross-cultural negotiation scenarios. </p>
 
-The experiences that Angela has accrued across various academic fields, the music industry, and technology inspire her interdisciplinary approach to studying human behavior and cognition. She is passionate about applying this keen insight and creative problem solving to conduct thoughtful and innovative research for the greater good.
+<p>The experiences that Angela has accrued across various academic fields, the music industry, and technology inspire her interdisciplinary approach to studying human behavior and cognition. She is passionate about applying this keen insight and creative problem solving to conduct thoughtful and innovative research for the greater good.</p>
           </div>
         </div>
       </div>
