@@ -18,21 +18,18 @@
       </div>
     </div>
             <h2 class="media-heading">About Me</h2>
-            <p>Angela Nazarian is a Psychology PhD candidate in the lab of <a href="https://atonal.ucdavis.edu/people/">Dr. Petr Janata</a> at the University of    California, Davis. Her research uses naturalistic stimuli to examine human memory across the lifespan. This work utilizes factors including nostalgia and modality to address questions such as why music reminds us of the past and how it can be used to elicit memories in healthy individuals as well as people with memory disorders.</p> 
+            <p>Angela Nazarian is a Psychology PhD candidate in the lab of <a href="https://atonal.ucdavis.edu/people/">Dr. Petr Janata</a> at the University of          California, Davis. Her research uses naturalistic stimuli to examine human memory across the lifespan. This work utilizes factors including nostalgia and modality to address questions such as why music reminds us of the past and how it can be used to elicit memories in healthy individuals as well as people with memory disorders.</p> 
 
-<p>Angela is currently interning as a User Experience Researcher at Google, and previously interned as a Research Scientist at Spotify in 2018 where she conducted user research to examine how individuals request music through conversational voice queries. Prior to joining UC Davis, Angela was also involved in the development and implementation of immersive technologies at the <a href="https://ict.usc.edu">USC Institute for Create Technologies</a>. Her research there included multimodal prediction of psychological disorders, assessment of responsive virtual museum tour guides, and development of virtual training agents for cross-cultural negotiation scenarios. </p>
+   <p>Angela is currently interning as a User Experience Researcher at Google, and previously interned as a Research Scientist at Spotify in 2018 where she conducted user research to examine how individuals request music through conversational voice queries. Prior to joining UC Davis, Angela was also involved in the development and implementation of immersive technologies at the <a href="https://ict.usc.edu">USC Institute for Create Technologies</a>. Her research there included multimodal prediction of psychological disorders, assessment of responsive virtual museum tour guides, and development of virtual training agents for cross-cultural negotiation scenarios. </p>
 
 <p>The experiences that Angela has accrued across various academic fields, the music industry, and technology inspire her interdisciplinary approach to studying human behavior and cognition. She is passionate about applying this keen insight and creative problem solving to conduct thoughtful and innovative research for the greater good.</p>
          
-         
-          <div class="media-body">
-            <h2 class="media-heading">Contact</h2>
+   <h2 class="media-heading">Contact</h2>
+   <p><a href="mailto:anazarian@ucdavis.edu">anazarian@ucdavis.edu</a></p>
 
-    <p><a href="mailto:anazarian@ucdavis.edu">anazarian@ucdavis.edu</a></p>
+   <p>Angela Nazarian</p>
+   <p>Center for Mind and Brain</p>
+   <p>267 Cousteau Place</p>
+   <p>Davis, CA 95616</p>
 
-    <p>Angela Nazarian</p>
-    <p>Center for Mind and Brain</p>
-    <p>267 Cousteau Place</p>
-    <p>Davis, CA 95616</p>
-
-    <p><a href="https://orcid.org/0000-0001-8583-2567">orcid.org/0000-0001-8583-2567</a></p>
+   <p><a href="https://orcid.org/0000-0001-8583-2567">orcid.org/0000-0001-8583-2567</a></p>
