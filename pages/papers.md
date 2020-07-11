@@ -15,7 +15,7 @@
              <div class="col-xs-6 col-lg-7">
                <h4>PUBLISHED CONFERENCE PROCEEDINGS</h4>
              </div>
-           <p> <b>Nazarian, A.</b>, Brillman, R., Thom, J., Cramer, H., Mennicken, S. (2020). "Play music": User motivations and expectations for non-specific voice queries. Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR 2021), Canberra, Australia. [under review]
+		 <p> Thom, J., Mennicken, S., <b>Nazarian, A.</b>, Brillman, R., Cramer, H., (2020). "Play music": User motivations and expectations for non-specific voice queries. Proceedings of the 21st International Socity for Music Information Retrieval Conference (ISMIR 2020), Montreal, Canada. 
            </p>
            <p> Rizzo, A., Scherer, S., DeVault, D.,  Gratch, J., Artstein, R., Hartholt, A…& Morency. (2015). Detection and computational analysis of psychological signals. Proceedings of the 10th International Conference on Disability, Virtual Reality & Associated Technologies (ICDVRAT 2015), Gothenburg, Sweden.
            </p>
